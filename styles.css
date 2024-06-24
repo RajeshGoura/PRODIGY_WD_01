@@ -1,0 +1,124 @@
+.vidsec{
+    display:flex;
+  }
+  
+  @media screen {
+      * {
+          background: black
+          
+      }
+  }
+  
+  a{
+    text-decoration:none;
+  margin-right:5px;
+  padding-left:10px;
+  text-align:center;
+  color:yellow;
+  }
+  a:hover{
+    color:aqua;
+  }
+  
+  .navbar{
+  background-color:yellow;
+    text-align:right;
+  
+  }
+  
+  .btn{
+  color:green;
+  display:flex;
+  justify-content:center;
+  }
+  
+  .submitbtn{
+    background-color:yellow;
+    font-weight:bold;
+    font-size:15px;
+  }
+  
+  .mail{
+    margin-top:2rem;
+    margin-bottom:10px;
+    display:flex;
+    justify-content:center;
+  }
+  
+  .paths{
+    display:flex;
+    justify-content:center;
+    
+  }
+  body{
+    color:yellow;
+  }
+  
+  h2{
+    color:aqua;
+  }
+  
+  .streetkid{
+    width:20%;
+    float:left;
+    height:300px;
+  }
+  .streetkid-text{
+    width:80%;
+    float:left;
+    height:350px;
+  }
+  
+  .corpo-img{
+    margin-top:35px;
+  }
+  
+  .streetkid-text1{
+    width:80%;
+    float:left;
+    height:350px;
+    margin-top:35px;
+  }
+  
+  .vids{
+    text-align:center;
+  }
+  
+  .pricing{
+    display:flex;
+    justify-content:center;
+    box-sizing:border-box;
+    border-color:orange;
+  }
+  
+  .civilian{
+    background-color:yellow;
+    width:100%;
+    text-align:center;
+    
+    
+  }
+  
+  h3{
+    color:black;
+    background-color:yellow;
+  }
+  
+  .footera{
+    text-align:right;
+    color:white;
+    background-color:grey;
+    margin-right:5px;
+    padding-left:100px;
+    margin-top:20px;  
+    height:50px;
+    width:100%;
+    
+    
+  }
+  
+  .ftext{
+    background-color:grey;
+    color:black;
+  
+  }
